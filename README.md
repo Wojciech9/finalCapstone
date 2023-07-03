@@ -1,8 +1,5 @@
 # Watch next
-Hi programer! This is my first little project I am updating on Github. 
-Its purpuse is to identify movie from list that is similar to description
-of movie which was watched by user and suggesting him similar movie.
-I have used spaCy library for this project which is a lot of fun.
+Hi, programmer! This is the first little project I am updating on GitHub. Its purpose is to identify a movie from the list that is similar to a description of a film that was watched by the user and suggests a similar movie. I have used the spaCy library for this project, which is a lot of fun.
 
 “The journey of a thousand miles begins with one step” 
 Lao Tzu
